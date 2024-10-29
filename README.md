@@ -24,7 +24,7 @@ Welcome to the **MySQL Database Interface**! This user-friendly graphical applic
 
 1. **Clone the repository** (or download the project files):
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/chrohangurjar1/MySQLConnection-.git
    cd mysqlconnection
    ```
 
