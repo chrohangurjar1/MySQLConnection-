@@ -12,6 +12,11 @@ Welcome to the **MySQL Database Interface**! This user-friendly graphical applic
 - **📊 Display Results**: View the results of your queries in a scrollable and organized text area.
 - **⚠️ Error Handling**: Receive clear, user-friendly messages for any errors encountered during database operations.
 
+  ## 📸 Demo
+
+![Demo of Hand Gesture Detection](OIP.jpeg)  
+*Watch how the system work in real-time!*
+
 ## 📋 Requirements
 
 - **Python**: 3.6 or later
