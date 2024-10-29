@@ -14,8 +14,8 @@ Welcome to the **MySQL Database Interface**! This user-friendly graphical applic
 
   ## 📸 Demo
 
-![Demo of Hand Gesture Detection](OIP.jpeg)  
-*Watch how the system work in real-time!*
+![Demo of Hand Gesture Detection](sql.png)  
+*Watch how the connector work in real-time!*
 
 ## 📋 Requirements
 
